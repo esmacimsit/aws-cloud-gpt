@@ -1,0 +1,9 @@
+Give me 5 practice questions for the AWS CLF-C02 exam.
+
+Explain the AWS Shared Responsibility Model.
+
+Quiz me on AWS pricing models.
+
+Summarize the Well-Architected Framework for beginners.
+
+Test my knowledge on core AWS services.
